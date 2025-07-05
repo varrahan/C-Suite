@@ -15,13 +15,6 @@ A simple UDP-based client-server system written in C++. Includes examples of:
 - Socket programming
 - Sending and receiving datagrams
 - Basic networking concepts
-
-### `UDP_based_RPC`
-A minimal Remote Procedure Call (RPC) framework built over UDP. Demonstrates:
-- Serializing and deserializing data
-- Defining remote procedures
-- Handling requests and responses in a distributed system
-
 ---
 
 ## 🛠 Build & Run
